@@ -1,4 +1,4 @@
-// Hello world project main.go
+// Hello world project main.go 程序
 package main
 
 import (
